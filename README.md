@@ -8,5 +8,3 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/aryan-ali-593b14203/">Aryan Ali (Linkedin)</a><br>
 - 🗳 Email me at <a href="aliaryan3735@gmail.com">Aryan Ali (Email)</a><br>
 <hr />
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AryanA3735&show_icons=true&locale=en" alt="AryanA3735" />
-</div>
