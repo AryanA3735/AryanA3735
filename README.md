@@ -3,8 +3,8 @@
 
 <hr />
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mitul3737/mitul3737/main/mituls%20code.gif" width="250" height="200" />
-- 🔭 I’m an IIT Mandi < a href = 'https://www.iitmandi.ac.in/'>, B.Tech. Data Science graduate.<br>
-- 💻 Worked as a Data Science intern at Dectrocel Healthcare 
+- 🔭 I’m an <a href = "https://www.iitmandi.ac.in/">IIT Mandi </a>, B.Tech. Data Science graduate.<br>
+- 💻 Worked as a Data Science intern at <a href = "https://dectrocel.com/index.php"> Dectrocel Healthcare  </a>
 - 🌱 Currently learning LLM <br>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/aryan-ali-593b14203/">Aryan Ali (Linkedin)</a><br>
 - 🗳 Email me at <a href="aliaryan3735@gmail.com">Aryan Ali (Email)</a><br>
