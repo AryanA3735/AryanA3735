@@ -3,7 +3,7 @@
 
 <hr />
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mitul3737/mitul3737/main/mituls%20code.gif" width="250" height="200" />
-- 🔭 I’m currently a senior at IIT Mandi, pursuing my B.Tech in Data Science.<br>
+- 🔭 I’m an IIT Mandi, B.Tech. Data Science graduate.<br>
 - 🌱 Currently learning LLM <br>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/aryan-ali-593b14203/">Aryan Ali (Linkedin)</a><br>
 - 🗳 Email me at <a href="aliaryan3735@gmail.com">Aryan Ali (Email)</a><br>
